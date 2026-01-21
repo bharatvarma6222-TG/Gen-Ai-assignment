@@ -1,0 +1,32 @@
+[
+  {
+    "title": "A Light in the Attic",
+    "price": "Â£51.77",
+    "rating": "Three",
+    "url": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html"
+  },
+  {
+    "title": "Tipping the Velvet",
+    "price": "Â£53.74",
+    "rating": "One",
+    "url": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html"
+  },
+  {
+    "title": "Soumission",
+    "price": "Â£50.10",
+    "rating": "One",
+    "url": "https://books.toscrape.com/catalogue/soumission_998/index.html"
+  },
+  {
+    "title": "Sharp Objects",
+    "price": "Â£47.82",
+    "rating": "Four",
+    "url": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "price": "Â£54.23",
+    "rating": "Five",
+    "url": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html"
+  }
+]

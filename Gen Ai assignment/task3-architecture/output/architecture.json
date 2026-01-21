@@ -1,0 +1,22 @@
+{
+  "modules": [
+    "Frontend UI",
+    "Chat Controller",
+    "AI Response Engine",
+    "Database Layer"
+  ],
+  "apis": [
+    "POST /chat",
+    "GET /chat/history"
+  ],
+  "database": [
+    "Users(id, name, email)",
+    "Messages(id, user_id, message, response, timestamp)"
+  ],
+  "pseudocode": [
+    "Receive user message",
+    "Send message to AI engine",
+    "Store response in database",
+    "Return response to UI"
+  ]
+}
